@@ -1,7 +1,9 @@
 const App = () => {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <main className="relative">
+        <section className="xl:padding-l wide:padding-r padding-b"></section>
+      </main>
     </>
   );
 };
