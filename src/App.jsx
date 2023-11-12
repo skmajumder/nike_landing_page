@@ -1,5 +1,3 @@
-import Footer from './sections/Footer';
-
 const App = () => {
   return (
     <>
@@ -13,7 +11,6 @@ const App = () => {
         <section className="padding">SpecialOffer</section>
         <section className="padding bg-pale-blue">CustomerReview</section>
         <section className="padding-x w-full py-16 sm:py-32">Subscribe</section>
-        <Footer />
       </main>
     </>
   );
