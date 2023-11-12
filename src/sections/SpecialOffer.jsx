@@ -1,9 +1,5 @@
 const SpecialOffer = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <section className="padding">SpecialOffer</section>;
 };
 
 export default SpecialOffer;

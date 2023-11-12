@@ -1,9 +1,5 @@
 const PopularProducts = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <section className="padding">PopularProducts</section>;
 };
 
 export default PopularProducts;

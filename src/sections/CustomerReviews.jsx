@@ -1,9 +1,5 @@
 const CustomerReviews = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <section className="padding bg-pale-blue">CustomerReview</section>;
 };
 
 export default CustomerReviews;

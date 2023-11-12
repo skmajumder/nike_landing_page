@@ -1,4 +1,3 @@
-import Nav from './Nav';
 import Hero from './Hero';
 import Footer from './Footer';
 import Services from './Services';
@@ -9,7 +8,6 @@ import PopularProducts from './PopularProducts';
 import CustomerReviews from './CustomerReviews';
 
 export {
-  Nav,
   Hero,
   Footer,
   Services,

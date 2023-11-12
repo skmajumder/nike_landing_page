@@ -1,9 +1,5 @@
 const SuperQuality = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return <section className="padding">SuperQuality</section>;
 };
 
 export default SuperQuality;
